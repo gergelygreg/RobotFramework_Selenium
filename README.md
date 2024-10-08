@@ -17,7 +17,10 @@ Practises being used are: <br/>
 -Move SeleniumLibrary declaration to page object files <br/>
 -Move locators into clearly named variables <br/>
 -Consider parameterizing certain keywords (i.e login) <br/>
--Pass browser as a parameter when running tests
+-Pass browser as a parameter when running tests <br/>
+
+Manual Test Cases: "Manual Test CRM web app 2" <br/>
+Tests (robot file): "Crm2.robot"
 
 
 
